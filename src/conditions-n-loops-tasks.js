@@ -211,8 +211,6 @@ function convertNumberToString(numberStr) {
         result += 'ten';
         break;
       case '.':
-        result += 'point';
-        break;
       case ',':
         result += 'point';
         break;
